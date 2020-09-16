@@ -1,0 +1,26 @@
+1. Based on the videos and the reading material, how would you define a data scientist and data science?
+
+Data scientist is someone who analyzes data (big or small) to find solutions to problems identified by an organization and communicate the findings to the relevant stakeholders in ways that the results are comprehendable by the latter. 
+A good data scientist has a curious mind, fluency in analytics and must be able to communicate the findings in a way that the stakeholders understand. 
+
+Data science is the process of collecting, manipulating and analysing data to obtain answers to the specific 
+problem at hand and make recomendations for solutions to the organisation to make strategic decisions and communicating 
+the results in a way that is understandable by the stakeholders using data visualisaton tools.  
+
+2. As discussed in the videos and the reading material, data science can be applied to problems across different industries. 
+What industry are you passionate about and would like to pursue a data science career in?
+
+I am passionate about pursuing data science in the field of retail and/or automotive industry. 
+
+
+3. Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project?
+1. Cover Page - to include the title of the report, names of author/s of the report, their affiliation and contacts, name of the publisher, if any and the date of the publication. 
+2. Table of contents - provides a glimpse of the report and it s content. This will help the stakeholder navigate to the desired section of the report. 
+3. Introduction - to the report is necessary to inform the stakeholder of the basis of the report. 
+4. Methodology - in necessary to inform the stakeholders of the type of data used and the research methods applied in the report. 
+5. Results - contain the findings of the exercise. 
+6. Discussion - where the main arguments of the report are crafted based on the finding of the report. 
+7. Conclusion - promoting the findings of the report to the stakeholders.  
+8. References - bibliography of the reference materials used/consulted during the research of the report. 
+9. Acknowledgement - thanking all those who assisted in the research/report. 
+10. Appendices - containing mathematical derivations/calculations and tables of data. 
